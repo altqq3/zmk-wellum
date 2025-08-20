@@ -192,7 +192,7 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
             bindings = <
 _ EXCL      _ AT      _ HASH      _ DLLR     _ PERCENT         _ CARET      _ AMPS      _ STAR      _ LPAR      _ RPAR
 _ TILDE       _ GRAVE        _ SQT        _ DQT       _ MINUS         _ PLUS       &cm_sft      &cm_ctrl     &cm_alt      &cm_gui
-_ BSL        ___          _ SEMI   _ COMMA      _ UNDER         _ EQUAL      _ DOT       _ COLON   _ PIPE        _ BSLH
+_ BSLH        ___          _ SEMI   _ COMMA      _ UNDER         _ EQUAL      _ DOT       _ COLON   _ PIPE        _ BSLH
                                        _ SPACE      ______          ______       _ RALT
             >;
         };
