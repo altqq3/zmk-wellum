@@ -193,7 +193,7 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
 _ EXCL        _ AT           _ HASH       _ DLLR      _ PERCENT       _ CARET      _ AMPS       _ STAR       _ LPAR       _ RPAR
 _ TILDE       _ GRAVE        _ SQT        _ DQT       _ MINUS         _ PLUS       &cm_sft      &cm_ctrl     &cm_alt      &cm_gui
 _ BSLH        ___            _ SEMI       _ COMMA     _ UNDER         _ EQUAL      _ DOT       _ COLON       _ PIPE       _ SLASH
-                                       _ SPACE      ______          ______       _ RALT
+                                          _ SPACE     ______          ______       _ RALT
             >;
         };
 
@@ -202,7 +202,7 @@ _ BSLH        ___            _ SEMI       _ COMMA     _ UNDER         _ EQUAL   
 &swapper_mac   &tabber      ___          ___         _ ESC           _ ESC        _ HOME       _ END        _ BSPC       _ DEL
 &cm_gui        &cm_alt      &cm_ctrl     &cm_sft     _ RET           _ RET        _ LEFT       _ DOWN       _ UP         _ RIGHT
 _ PSPC         _ NSPC       ___          _ PSCRN     _ TAB           _ TAB        _ PG_UP      _ PG_DN      ___          ___
-                                       &mo CMD     ______          ______       _ CAPS
+                                         &mo CMD     ______          ______       _ CAPS
             >;
         };
 
@@ -217,10 +217,10 @@ _ F1         _ F2         _ F3         _ F4        _ F5            _ F6         
 
         alt_layer {
             bindings = <
-_ RA(Q)      _ RA(W)      _ RA(E)      _ RA(R)     _ RA(T)         _ RA(Y)      _ RA(U)      _ RA(I)      _ RA(O)      _ RA(P)
+_ RA(Q)      _ RA(W)      _ RA(E)      _ RA(R)     _ BSLH          _ RA(Y)      _ RA(U)      _ RA(I)      _ RA(O)      _ RA(P)
 _ RA(A)      _ RA(S)      _ RA(D)      _ RA(F)     _ RA(G)         _ RA(H)      _ RA(J)      _ RA(K)      _ RA(L)      _ RA(SEMI)
-_ RA(Z)      _ RA(X)      _ RA(C)      _ RA(V)     _ RA(B)         _ RA(N)      _ RA(M)      _ RA(COMMA)  _ RA(DOT)    _ RA(FSLH)
-                                       _ SPACE      _ LSHFT         ______       ______
+_ RA(Z)      _ RA(X)      _ RA(C)      _ RA(V)     _ RA(B)         _ RA(N)      _ RBKT       _ RA(COMMA)  _ RA(DOT)    _ RA(FSLH)
+                                       _ SPACE     _ LSHFT         ______       ______
             >;
         };
 
