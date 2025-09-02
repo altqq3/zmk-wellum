@@ -217,18 +217,19 @@ _ F1         _ F2         _ F3         _ F4        _ F5            _ F6         
 
         alt_layer {
             bindings = <
-_ RA(Q)      _ RA(W)      _ RA(E)      _ RA(R)     _ BSLH          _ RA(Y)      _ RA(U)      _ RA(I)      _ RA(O)      _ RA(P)
-_ RA(A)      _ RA(S)      _ RA(D)      _ RA(F)     _ RA(G)         _ RA(H)      _ RA(J)      _ RA(K)      _ RA(L)      _ RA(SEMI)
-_ RA(Z)      _ RA(X)      _ RA(C)      _ RA(V)     _ RA(B)         _ RA(N)      _ RBKT       _ RA(COMMA)  _ RA(DOT)    _ RA(FSLH)
+___      ___      ___      ___     _ BSLH          ___      ___          ___      ___     ___
+___      ___      ___      ___     ___             ___      ___          ___      ___     _ SQT
+___      ___      ___      ___     ___             ___      _ RBKT       ___      ___     ___
                                        _ SPACE     _ LSHFT         ______       ______
             >;
         };
 
         cmd_layer {
             bindings = <
-___ ___ ___ ___ ___     _ C_MUTE ___ ___ ___ ___
-___ ___ ___ ___ ___     _ C_VOL_UP _ C_PREV     _ C_PP       _ C_NEXT ___
-___ ___ ___ ___ ___     _ C_VOL_DN ___ ___ ___ ___
+___ ___ ___ ___ ___     _ C_MUTE      ___          ___          ___       ___
+___ ___ ___ ___ ___     _ C_VOL_UP    _ C_PREV     _ C_PP       _ C_NEXT  ___
+___ ___ ___ ___ ___     _ C_VOL_DN    ___          ___          ___       ___
+            ___ ___     ___           ___
             >;
         };
     };
