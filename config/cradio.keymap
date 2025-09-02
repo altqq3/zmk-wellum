@@ -193,7 +193,7 @@ _ Z          _ X          _ C          _ V         _ B             _ N          
 _ EXCL        _ AT           _ HASH       _ DLLR      _ PERCENT       _ CARET      _ AMPS       _ STAR       _ LPAR       _ RPAR
 _ TILDE       _ GRAVE        _ SQT        _ DQT       _ MINUS         _ PLUS       &cm_sft      &cm_ctrl     &cm_alt      &cm_gui
 _ BSLH        ___            _ SEMI       _ COMMA     _ UNDER         _ EQUAL      _ DOT       _ COLON       _ PIPE       _ SLASH
-                                          _ SPACE     ______          ______       _ RALT
+                                          _ SPACE     ______          ______       &mo ALT
             >;
         };
 
