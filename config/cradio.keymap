@@ -16,8 +16,8 @@
 #define ALT 4
 #define CMD 5
 
-#define NSPC LC(RIGHT)
-#define PSPC LC(LEFT)
+#define NSPC LG(RBKT)
+#define PSPC LG(LBKT)
 
 // custom implementation of modified callum-mods,
 // which can be released on second keypress
